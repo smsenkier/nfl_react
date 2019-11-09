@@ -1,2 +1,2 @@
 # nfl_react
-Wild-Card Weekend Draft Aopp
+Wild-Card Weekend Draft App
